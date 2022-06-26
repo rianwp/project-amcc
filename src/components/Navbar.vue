@@ -5,8 +5,6 @@
         <a class="navbar-brand navbar-link" href="/">Logo</a>
         <a class="navbar-link" href="/">Template</a>
     </div>
-    
-   
     <div class="d-flex align-items-center">
         <div class="icon-group">
             <IconNavbar link="/qna"><i class="bi bi-question-circle"></i></IconNavbar>
